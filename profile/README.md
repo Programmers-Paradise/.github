@@ -2,7 +2,10 @@
 
 Welcome to Programmers' Paradise, your ultimate destination for all things coding and technology! 🚀
 
-![Programmers' Paradise](https://github.com/Programmers-Paradise/Member-Selection-Test/blob/main/6613a282ad4b8.jpg)
+<p align="center">
+  <img src=CSVTU_IMG.png alt="Grid Image">
+</p>
+
 
 ## About Us
 
@@ -27,6 +30,7 @@ Our mission is to provide a platform for students to enhance their coding skills
 Join our community and embark on an exciting journey of coding challenges, workshops, hackathons, and more! Follow us on [LinkedIn](https://www.linkedin.com/company/programmers-paradise-csvtu/) for updates and announcements.
 
 Let's code, learn, and grow together in Programmers' Paradise! 💻✨
+![Programmers' Paradise](https://github.com/Programmers-Paradise/Member-Selection-Test/blob/main/6613a282ad4b8.jpg)
 
 ---
 
