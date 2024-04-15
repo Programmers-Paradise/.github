@@ -24,6 +24,10 @@ Our mission is to provide a platform for students to enhance their coding skills
   - Mrs. Divya Shukla
   - Mr. Ramakant Ganjeshwar
   - Mrs. Basanti Minj
+- **President:** Mr. Abhinav Shukla
+- **Vice-President (Outreach and PR):** Ms. Anoushka Chatterjee
+- **Vice-President (Projects and Competitive Programming):** Mr. Saurabh Kumar
+- **Vice-President (Programming and Workshops):** Mr. Sharad Singh Thakur
 
 ## Get Involved
 
