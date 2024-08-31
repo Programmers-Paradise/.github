@@ -28,10 +28,11 @@ Our mission is to provide a platform for students to enhance their coding skills
 - **Vice-President (Outreach and PR):** Ms. Anoushka Chatterjee
 - **Vice-President (Projects and Competitive Programming):** Mr. Saurabh Kumar
 - **Vice-President (Programming and Workshops):** Mr. Sharad Singh Thakur
+- **Vice-President (MATLAB):** Mr. Jai Keshav Sharma
 
 ## Get Involved
 
-Join our community and embark on an exciting journey of coding challenges, workshops, hackathons, and more! Follow us on [LinkedIn](https://www.linkedin.com/company/programmers-paradise-csvtu/) for updates and announcements.
+Join our community and embark on an exciting journey of coding challenges, workshops, hackathons, and more! Check out our [Linktree](https://linktr.ee/programmersparadise) for updates.
 
 Let's code, learn, and grow together in Programmers' Paradise! 💻✨
 ![Programmers' Paradise](https://github.com/Programmers-Paradise/Member-Selection-Test/blob/main/6613a282ad4b8.jpg)
