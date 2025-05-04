@@ -1,42 +1,99 @@
-# Programmers' Paradise
-
-Welcome to Programmers' Paradise, your ultimate destination for all things coding and technology! 🚀
-
-<p align="center">
-  <img src=CSVTU_IMG.png alt="Grid Image">
+<p align="Left">
+  <img src="PPlogo.png" alt="PP Logo" width="50" style="vertical-align: middle;">
+  <span style="font-size: 2em; font-weight: bold; vertical-align: middle;">Programmers' Paradise</span>
 </p>
 
 
+Welcome to **Programmers' Paradise**, your ultimate destination for all things coding and technology! 🚀
+
+<p align="center">
+  <img src="CSVTU_IMG.png" alt="Grid Image">
+</p>
+
 ## About Us
 
-Programmers' Paradise is a vibrant community dedicated to fostering coding excellence and innovation among students. Whether you're a seasoned coder or just starting your journey in the world of programming, you'll find a home here.
+**Programmers' Paradise** has evolved into a full-fledged **Technical Society**. We are a vibrant and inclusive community dedicated to fostering innovation, technical excellence, and collaborative learning among students. Whether you're diving into programming for the first time or you're a seasoned developer, there's something here for everyone.
 
 ## Our Mission
 
-Our mission is to provide a platform for students to enhance their coding skills, collaborate on projects, and stay updated with the latest trends in technology. We believe in nurturing a culture of learning, creativity, and growth.
+Our mission is to empower students through technical skill development, peer collaboration, and hands-on experience. We aim to provide a supportive platform for learning, creating, and growing in diverse areas of technology through events, workshops, and projects.
 
-## Club Leadership
+## Technical Society Core Leadership
 
-- **Club In-Charge**: Dr. Nachiket Tapas
-- **Club Faculty Advisors**:
-  - Dr. R.G Brajesh
-  - Mr. Abhinaw Jagtap
-  - Mrs. Divya Shukla
-  - Mr. Ramakant Ganjeshwar
-  - Mrs. Basanti Minj
-- **President:** Mr. Abhinav Shukla
-- **Vice-President (Outreach and PR):** Ms. Anoushka Chatterjee
-- **Vice-President (Projects and Competitive Programming):** Mr. Saurabh Kumar
-- **Vice-President (Programming and Workshops):** Mr. Sharad Singh Thakur
-- **Vice-President (MATLAB):** Mr. Jai Keshav Sharma
+* **Head of Technical Council:** Mr. Abhinav Shukla
+* **General Secretary:** Mr. Harsh Sharma
+* **Technical Secretary:** Mr. Aksh Agrawal
+* **PR and Outreach Secretary:** Ms. Doorvi Sahu
+* **Event Secretary:** Mr. Ayush Dhruw
+
+## Clubs Under Programmers' Paradise
+
+### 1. AI/ML Club
+
+* **President:** Mr. Sharad Singh Thakur
+* **Vice-President:** Mr. Abhay Singh Sisoodiya
+
+`Focus` : Artificial Intelligence, Machine Learning, and Software Development Workshops
+
+### 2. Competitive Programming Club
+
+* **President:** Mr. Saurabh Kumar
+
+`Focus`: Coding contests, algorithmic thinking, and problem-solving
+
+### 3. Nextronix (Robotics Club)
+
+* **President:** Mr. Manoj Kumar Sinha
+* **Vice-President (Design & Technical):** Mr. Hridyesh Kumar
+* **Vice-President (PR and Outreach):** Ms. Kavya Sahu
+
+`Focus`: Robotics, IoT, Automation, Embedded Systems
+
+### 4. Matlab Club
+
+* **President:** Mr. Jai Keshav Sharma
+* **Coordinator:** Ms. Rupali Chandrakar
+
+`Focus`: Numerical computing, simulations, and engineering problem-solving using MATLAB
+
+### 5. Blockchain and Web3 Club
+
+* **President:** Mr. Arnav Jha
+* **PR Head:** Ms. Rupali Chandrakar
+
+`Focus`: Decentralized Applications (dApps), Smart Contracts, Blockchain Technologies
+
+### 6. Overall PR and Outreach Section
+
+* **Design Head:** Mr. Rohit Rana
+* **Social Media Coordinator:** Ms. Riya Singh
+* **Media Head:** Mr. Dikesh Patel
+
+`Focus`: Promotion of events, social media management, and outreach activities
+
+## Faculty In-Charge & Mentors
+
+* **Club In-Charge:** Dr. Nachiket Tapas
+* **Faculty Advisors:**
+
+  * Dr. R.G Brajesh
+  * Mrs. Divya Shukla
+  * Mr. Ramakant Ganjeshwar
+  * Mrs. Basanti Minj
+
 
 ## Get Involved
 
-Join our community and embark on an exciting journey of coding challenges, workshops, hackathons, and more! Check out our [Linktree](https://linktr.ee/programmersparadise) for updates.
+Join our community and embark on an exciting journey of coding challenges, workshops, hackathons, and more! Follow us on [LinkedIn](https://www.linkedin.com/company/programmers-paradise-csvtu/) for updates and announcements.
 
-Let's code, learn, and grow together in Programmers' Paradise! 💻✨
-![Programmers' Paradise](https://github.com/Programmers-Paradise/Member-Selection-Test/blob/main/6613a282ad4b8.jpg)
+## Join the Community
+
+We invite you to be a part of our community, where you can learn, share, and grow together. Whether you're interested in AI, competitive programming, robotics, or any other tech field, **Programmers' Paradise** is the place for you!
+
+Let's code, learn, and grow together in **Programmers' Paradise**! 💻✨
 
 ---
 
-*Connect with us on [LinkedIn](https://www.linkedin.com/company/programmers-paradise-csvtu/) | Visit our [GitHub Repository](https://github.com/Programmers-Paradise)*
+*Connect with us on [LinkedIn](https://www.linkedin.com/company/programmers-paradise-csvtu/) | Visit our [GitHub Repository](https://github.com/Programmers-Paradise) | Email Us! [Email](programmers.paradise.utd@csvtu.ac.in)*
+
+--- 
