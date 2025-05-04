@@ -1,9 +1,4 @@
-<div align="left" style="display: flex; align-items: center; gap: 10px;">
-  <img src="PPlogo.png" alt="PP Logo" width="50"/>
-  <h1 style="margin: 0;">Programmers' Paradise</h1>
-</div>
-
-<br />
+# Programmers' Pardise
 
 Welcome to **Programmers' Paradise**, your ultimate destination for all things coding and technology! 🚀
 
