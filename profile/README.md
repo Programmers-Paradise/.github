@@ -1,4 +1,4 @@
-# Programmers' Pardise
+# Programmers' Paradise
 
 Welcome to **Programmers' Paradise**, your ultimate destination for all things coding and technology! 🚀
 
