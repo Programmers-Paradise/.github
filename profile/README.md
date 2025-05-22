@@ -90,6 +90,6 @@ Let's code, learn, and grow together in **Programmers' Paradise**! 💻✨
 
 ---
 
-*Connect with us on [LinkedIn](https://www.linkedin.com/company/programmers-paradise-csvtu/) | Visit our [GitHub Repository](https://github.com/Programmers-Paradise) | Email Us! [Email](programmers.paradise.utd@csvtu.ac.in)*
+*Connect with us on [LinkedIn](https://www.linkedin.com/company/programmers-paradise-csvtu/) | Visit our [GitHub Repository](https://github.com/Programmers-Paradise) | Email Us! [Email](mailto:programmers.paradise.utd@csvtu.ac.in)*
 
 --- 
